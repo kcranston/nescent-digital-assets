@@ -3,28 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+The National Evolutionary Synthesis Center (NESCent) is a nonprofit science center dedicated to cross-disciplinary research in evolution. NESCent is jointly operated by Duke University, The University of North Carolina at Chapel Hill, and North Carolina State University, and is sponsored by the National Science Foundation.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+NESCent is closing in 2015, and these pages provide a description of the digital assets of the center and plans for their handoff and archival. 
 
-There are currently two themes built on Poole:
+## Site tools
+This site is built using [GitHub pages](https://pages.github.com/) using [Jekyll](http://jekyllrb.com/), [Poole](http://getpoole.com/) and the [Hyde](https://github.com/poole/hyde) theme. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
