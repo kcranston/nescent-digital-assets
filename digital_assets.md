@@ -18,13 +18,13 @@ If you have questions, please email [help@nescent.org](mailto:help@nescent.org)
 NESCent has provided a wiki and mailing list for all NESCent working groups and catalysis meeting. You can search the list of wikis and mailing lists on the [NESCent website](https://nescent.org/wikis).
 
 <h3>MediaWiki sites</h3>
-If your group started before 2012, you probably have a MediaWiki site. These are the wikis that look like Wikipedia; see [an example](http://informatics.nescent.org/wiki/Main_Page)). These are hosted at NESCent and will go offline in summer 2015. Unfortunately, it is not possible to simply save an entire MediaWiki site in a human-readable form. Here are some options:
+If your group started before 2012, you probably have a MediaWiki site. These are the wikis that look like Wikipedia; see [an example](http://informatics.nescent.org/wiki/Main_Page)). These are hosted at NESCent and will go offline in summer 2015. Unfortunately, it is not possible to simply save an entire MediaWiki site in a human-readable form. Here are some options (warning: none of them are good options, and all require some computational skill):
 
 * We can provide an XML dump from which the wiki can be reconstituted either on your own server or using a [hosting service](https://www.mediawiki.org/wiki/Hosting_services). 
- * You can manually save a printable version of any page by clicking on the *Printable version* link in the sidebar
+* You can manually save a printable version of any page by clicking on the *Printable version* link in the sidebar
 * You can manually save the wikitext of any page by clicking on *edit* at the top of the page, copying and pasting the text in the box. 
 
-MediaWiki has a [list of parsers](http://www.mediawiki.org/wiki/Alternative_parsers) for converting from XML and wikitext into other formats. We have used both [Pandoc](http://pandoc.org/) or pasting the content into a [GitHub wiki](https://help.github.com/articles/about-github-wikis/).
+MediaWiki has a [list of parsers](http://www.mediawiki.org/wiki/Alternative_parsers) for converting from XML and wikitext into other formats. For wikitext, we recommend [Pandoc](http://pandoc.org/) or pasting the content into a [GitHub wiki](https://help.github.com/articles/about-github-wikis/).
 
 <h3>Wikispaces sites</h3>
 If your group started after 2012, you probably have a Wikispaces site (see [an example](http://opentree.wikispaces.com/)). These sites are hosted at wikispaces under their free educational plan, so they will **not** disappear once NESCent closes. If you are not already an organizer of you Wikispaces site (check wiki-name.wikispaces.com/Members), we will promote you. Then, you have full control over your site. To download an archive of the site (included uploaded files), go to Settings->Exports/Backups (URL is wiki-name.wikispaces.com/export/list). For more information, see the [Wikispaces Help](http://help.wikispaces.com/). 
