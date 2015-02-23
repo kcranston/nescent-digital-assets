@@ -8,6 +8,7 @@ If you had a wiki, mailing list, Duke Cluster account or other online resource t
 * [Wikis and mailing lists](#wikis-mailing-lists)
 * [DSCR accounts](#dscr)
 * [Source code](#source_code)
+* [NESCent website](#nescent_website)
 * [Hosted applications](#hosted_apps)
 
 If you have questions, please email [help@nescent.org](mailto:help@nescent.org)
@@ -30,6 +31,9 @@ If you had an account on the [Duke Shared Cluster Resource](https://wiki.duke.ed
 
 <h2 id="source_code">Source code</h2>
 All NESCent source code is open source and available from the [NESCent GitHub organization](https://github.com/nescent), which will remain online after NESCent closes.  We also provide a [summary of all NESCent repositories]( {{"/repositories"|prepend: site.baseurl }} ). 
+
+<h2 id="nescent_website">NESCent website</h2>
+Duke will continue to host the NESCent website for at least X years after NESCent closes. In addition, we will place an archive of the site at the [Internet Archive](https://archive.org/).
 
 <h2 id="hosted_apps">Hosted applications</h2>
 If NESCent hosts an application that is the product of your NESCent project, you should have already received an email about transferring that application to another institution and / or sending an archive of the data. All source code for NESCent-hosted application is open source and available from the [NESCent GitHub organization](https://github.com/nescent). 
