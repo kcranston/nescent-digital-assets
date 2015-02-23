@@ -10,6 +10,8 @@ If you had a wiki, mailing list, Duke Cluster account or other online resource t
 * [Source code](#source_code)
 * [Hosted applications](#hosted_apps)
 
+If you have questions, please email [help@nescent.org](mailto:help@nescent.org)
+
 <h2 id="wikis_mailing_lists">Wikis and mailing lists</h2>
 
 NESCent has provided a wiki and mailing list for all NESCent working groups and catalysis meeting. You can search the list of wikis and mailing lists on the [NESCent website](https://nescent.org/wikis).
@@ -21,7 +23,7 @@ If your group started before 2012, you probably have a MediaWiki site. These are
 If your group started after 2012, you probably have a Wikispaces site (see [an example](http://opentree.wikispaces.com/)). These sites are hosted at wikispaces under their free educational plan, so they will not disappear once NESCent closes. If you are not already an organizer of you Wikispaces site (check wiki-name.wikispaces.com/Members), we will promote you. Then, you have full control over your site. To download an archive of the site (included uploaded files), go to Settings->Exports/Backups (URL is wiki-name.wikispaces.com/export/list). For more information, see the [Wikispaces Help](http://help.wikispaces.com/). 
 
 <h3>Mailing lists</h3>
-Some groups (generally those with MediaWiki sites, but not Wikispaces) also had separate mailing lists. We will...
+Some groups (generally those with MediaWiki sites, but not Wikispaces) also had separate mailing lists. We can provide the membership of the list and an archive of all email correspondence, in HTML with one message per HTML page.
 
 <h2 id="dscr">DSCR accounts</h2>
 If you had an account on the Duke Shared Cluster Resource, you will need to move the files in your home directory to another location (noting that the DSCR was never to be a permanent home for data). All accounts on the DSCR need to be associated with an existing campus group, so unless you have another affilication on Duke campus, your account will be deleted once NESCent closes.
