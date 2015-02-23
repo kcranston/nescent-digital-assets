@@ -19,9 +19,10 @@ NESCent has provided a wiki and mailing list for all NESCent working groups and 
 
 <h3>MediaWiki sites</h3>
 If your group started before 2012, you probably have a MediaWiki site. These are the wikis that look like Wikipedia; see [an example](http://informatics.nescent.org/wiki/Main_Page)). These are hosted at NESCent and will go offline in summer 2015. Unfortunately, it is not possible to simply save an entire MediaWiki site in a human-readable form. Here are some options:
+
 * We can provide an XML dump from which the wiki can be reconstituted either on your own server or using a [hosting service](https://www.mediawiki.org/wiki/Hosting_services). 
-* You can manually save a printable version of any page by clicking on the **Printable version** link in the sidebar
-* You can manually save the wikitext of any page by clicking on edit at the top of the page, copying and pasting the text in the box. 
+ * You can manually save a printable version of any page by clicking on the *Printable version* link in the sidebar
+* You can manually save the wikitext of any page by clicking on *edit* at the top of the page, copying and pasting the text in the box. 
 
 MediaWiki has a [list of parsers](http://www.mediawiki.org/wiki/Alternative_parsers) for converting from XML and wikitext into other formats. We have used both [Pandoc](http://pandoc.org/) or pasting the content into a [GitHub wiki](https://help.github.com/articles/about-github-wikis/).
 
