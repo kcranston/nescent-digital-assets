@@ -7,11 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            NESCent
+title:            NESCent Digital Assets
 tagline:          'National Evolutionary Synthesis Center'
 description:      'Information on digital assets of NESCent and plans for their handoff and archival.'
-url:              http://nescent.org
-baseurl:          http://kcranston.github.io/nescent-digital-assets/
+baseurl:          http://kcranston.github.io/nescent-digital-assets
 
 author:
   name:           'Karen Cranston'

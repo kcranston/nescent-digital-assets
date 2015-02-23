@@ -10,7 +10,7 @@ If you had a wiki, mailing list, Duke Cluster account or other online resource t
 NESCent has provided a wiki and mailing list for all NESCent working groups and catalysis meeting. You can search the list of wikis and mailing lists on the [NESCent website](https://nescent.org/wikis).
 
 * MediaWiki sites (the wikis that look like Wikipedia; see [an example](http://informatics.nescent.org/wiki/Main_Page)): we can provide a set of HTML pages that can be read in a web browser. If you have the ability to install MediaWiki on your own servers, we can provide a dump that can be re-installed. 
-* Wikispaces sites (see [an example](http://opentree.wikispaces.com/)): these are not hosted at NESCent. If you are not already an organizer of you Wikispaces site (check the *Members* page), we will promote you. Then, the site will be under your control. 
+* Wikispaces sites (see [an example](http://opentree.wikispaces.com/)): these are hosted for at wikispaces under their free educational plan, so they will not disappear once NESCent closes. If you are not already an organizer of you Wikispaces site (check wiki-name.wikispaces.com/Members), we will promote you. Then, you have full control over your site. To download an archive of the site (included uploaded files), go to Settings->Exports/Backups (URL is wiki-name.wikispaces.com/export/list). For more information, see the [Wikispaces Help](http://help.wikispaces.com/). 
 * mailing lists: some groups also had separate mailing lists. We will...
 
 ## DSCR accounts
