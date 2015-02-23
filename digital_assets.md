@@ -32,6 +32,6 @@ If you had an account on the [Duke Shared Cluster Resource](https://wiki.duke.ed
 All NESCent source code is open source and available from the [NESCent GitHub organization](https://github.com/nescent). We also provide a [summary of all NESCent repositories]( {{"/repositories"|prepend: site.baseurl }} ). 
 
 <h2 id="hosted_apps">Hosted applications</h2>
-If NESCent hosts an application that is the product of your NESCent project, you should have already received an email about transferring that application to another institution and / or sending an archive of the data. All source code is on the [NESCent GitHub organization](https://github.com/nescent). 
+If NESCent hosts an application that is the product of your NESCent project, you should have already received an email about transferring that application to another institution and / or sending an archive of the data. All source code for NESCent-hosted application is open source and available from the [NESCent GitHub organization](https://github.com/nescent). 
 
 
