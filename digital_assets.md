@@ -5,7 +5,7 @@ title: Digital asset plan
 
 If you had a wiki, mailing list, Duke Cluster account or other online resource through NESCent, this page describes what will happen to that resource when NESCent closes and how to access your data before then.
 
-* [Wikis and mailing lists](#wikis-mailing-lists)
+* [Wikis and mailing lists](#wikis_mailing_lists)
 * [DSCR accounts](#dscr)
 * [Source code](#source_code)
 * [NESCent website](#nescent_website)
